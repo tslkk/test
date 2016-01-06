@@ -534,7 +534,11 @@ int main(int argc, const char * argv[]) {
     NSString *str =@"一";
     
     NSLog(@"中文 %d",isChinese(str));
+    
+    
+    NSLog(@"kobe tsl");
     return 0;
+    
 }
 
 
