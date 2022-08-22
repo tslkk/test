@@ -409,6 +409,7 @@ PNode enQueue(Queue*queue,int item){
 }
 
 
+
 //对头元素出队
 PNode deQueue(Queue *queue,int *item){
     PNode pnode=queue->front;
